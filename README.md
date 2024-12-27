@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Mason Allen and I'm a Self-taught fullstack Dev/Red teamer,Blue  from from pittsburgh</h1>
+<h1 align="left">Hi 👋! My name is Mason Allen and I'm a Self-taught fullstack Dev/Red teamer,Blue  from pittsburgh</h1>
 
 ###
 
